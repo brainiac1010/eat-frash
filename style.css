@@ -108,3 +108,19 @@ body {
 
     color: rgb(95, 92, 92);
 }
+
+.Followers {
+    width: 80%;
+    box-shadow: 10px 10px 50px gray;
+    padding-bottom: 5%;
+
+
+    margin-left: 20%;
+    margin-right: 20%;
+
+
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(95, 92, 92);
+    display: flex;
+}
