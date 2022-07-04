@@ -1,0 +1,51 @@
+.heading-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.header-section {
+
+    display: flex;
+}
+
+.highlighter {
+
+
+    color: red;
+}
+
+.font-text {
+
+    color: rgb(95, 92, 92);
+}
+
+.half-header {
+
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half-header img {
+
+    padding-left: 2%;
+}
+
+.header-para {
+
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.header-butten {
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 25px;
+    background-image: linear-gradient(to right, red, rgb(255, 137, 2));
+    padding: 10px 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 50px gray;
+}
