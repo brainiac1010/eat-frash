@@ -1,3 +1,9 @@
+body {
+
+    margin: 0;
+}
+
+/* header section */
 .heading-text {
     font-family: 'Poppins', sans-serif;
     font-size: 70px;
@@ -48,4 +54,57 @@
     padding: 10px 20px;
     border-radius: 50px;
     box-shadow: 10px 10px 50px gray;
+}
+
+
+
+
+
+
+/* about section */
+
+
+.about-me {
+    display: flex;
+    align-items: center;
+    background-image: url(image/Khadok\ BG.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+
+}
+
+
+/* recipe section */
+.recipe-header {
+    text-align: center;
+}
+
+.recipe-body {
+    display: flex;
+    padding: 0, 10%;
+}
+
+.recipe-card {
+    width: 40%;
+    box-shadow: 10px 10px 50px gray;
+    padding: 2%;
+    border-radius: 2%;
+    margin-left: 5%;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(95, 92, 92);
+
+}
+
+.recipe-card img {
+    width: 100%;
+
+
+}
+
+.recipe-card h2 {
+
+    color: rgb(95, 92, 92);
 }
