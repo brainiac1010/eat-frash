@@ -36,6 +36,7 @@ body {
 .half-header img {
 
     padding-left: 2%;
+    width: 80%;
 }
 
 .header-para {
@@ -110,17 +111,63 @@ body {
 }
 
 .Followers {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    align-items: center;
     width: 80%;
     box-shadow: 10px 10px 50px gray;
-    padding-bottom: 5%;
-
-
-    margin-left: 20%;
-    margin-right: 20%;
-
-
-    font-size: 25px;
-    font-weight: 600;
+    padding-bottom: 2%;
     color: rgb(95, 92, 92);
     display: flex;
+    border-radius: 35px;
+}
+
+.youtube {
+    margin-top: 50px;
+    width: 29.3%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+.insta {
+    padding-left: 2%;
+    margin-top: 50px;
+    width: 29.3%;
+    padding-right: 2%;
+}
+
+.facebook {
+    padding-left: 2%;
+    margin-top: 50px;
+    width: 29.3%;
+    padding-right: 2%;
+
+}
+
+.footer {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+
+
+}
+
+.footer-text {
+    text-align: center;
+
+    color: rgb(95, 92, 92);
+    font-size: 25px;
+    margin-bottom: 50px;
+
+
+}
+
+.footer-eat {
+
+    color: red;
 }
